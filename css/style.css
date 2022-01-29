@@ -25,7 +25,7 @@
   position: relative;
 }
 
-.header__menu .menu__list .menu__links::after {
+.header__menu .menu__list .menu__links:not(:last-child):after {
   content: "";
   position: absolute;
   top: 0;
@@ -35,6 +35,15 @@
   height: 15px;
   width: 1px;
   background-color: #eaeaeb;
+}
+
+.header__menu .menu__list .menu__links .menu__link {
+  padding: 0 25px;
+  color: #464646;
+}
+
+.header__menu .menu__list .menu__links::after .menu__link:hover {
+  color: #a050be;
 }
 
 /*# sourceMappingURL=style.css.map */
