@@ -1,7 +1,7 @@
 # Sass Practice
-## Sass: CSS with Super Powers.
 
 ## Final Project
+Just for trainning practice SASS.
 
 #### Home Example
 
