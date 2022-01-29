@@ -3,9 +3,9 @@
 
 ## Final Project
 
-#### Home 
+#### Home Example
 
-<img src="https://raw.githubusercontent.com/lucasdepessoa/graphql-rest-test-1/main/backend/src/img/createAndReturnId.JPG">
+<img src="https://raw.githubusercontent.com/lucasdepessoa/sass-training/main/assets/img/home_example.png">
 
 
 
